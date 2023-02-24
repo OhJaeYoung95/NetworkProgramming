@@ -11,7 +11,7 @@ namespace ServerCore
 {
     class Program
     {
-
+        static Listener _listener = new Listener();
         static void Main(string[] args)
         {
             // DNS (Domain Name System)
@@ -22,24 +22,17 @@ namespace ServerCore
 
             // www.rookies.com -> 123.123.123.12 / 도메인 이름을 사용하면 IP만 바꿀때 접근하기 용이함
 
-            // 문지기
-            Socket listenSocket = new Socket(endPoint.AddressFamily, SocketType.Stream, ProtocolType.Tcp);
 
             try
             {
-                // 문지기 교육
-                listenSocket.Bind(endPoint);
-
-                // 영업 시작
-                // backlog : 최대 대기수
-                listenSocket.Listen(10);
+                _listener.Init(endPoint);
 
                 while (true)
                 {
                     Console.WriteLine("Listening...");
 
                     // 손님을 입장시킨다
-                    Socket clientSocket = listenSocket.Accept();
+                    Socket clientSocket = _listener.Accept();
 
                     // 받는다
                     byte[] recvBuff = new byte[1024];
