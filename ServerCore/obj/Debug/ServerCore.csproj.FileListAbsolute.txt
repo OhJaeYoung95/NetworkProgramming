@@ -1,7 +1,7 @@
-C:\Users\USER\Desktop\C#_Rookiss\NetworkServer\ServerCore\bin\Debug\ServerCore.exe.config
-C:\Users\USER\Desktop\C#_Rookiss\NetworkServer\ServerCore\bin\Debug\ServerCore.exe
 C:\Users\USER\Desktop\C#_Rookiss\NetworkServer\ServerCore\bin\Debug\ServerCore.pdb
 C:\Users\USER\Desktop\C#_Rookiss\NetworkServer\ServerCore\obj\Debug\ServerCore.csproj.AssemblyReference.cache
 C:\Users\USER\Desktop\C#_Rookiss\NetworkServer\ServerCore\obj\Debug\ServerCore.csproj.CoreCompileInputs.cache
-C:\Users\USER\Desktop\C#_Rookiss\NetworkServer\ServerCore\obj\Debug\ServerCore.exe
 C:\Users\USER\Desktop\C#_Rookiss\NetworkServer\ServerCore\obj\Debug\ServerCore.pdb
+C:\Users\USER\Desktop\C#_Rookiss\NetworkServer\ServerCore\bin\Debug\ServerCore.dll.config
+C:\Users\USER\Desktop\C#_Rookiss\NetworkServer\ServerCore\bin\Debug\ServerCore.dll
+C:\Users\USER\Desktop\C#_Rookiss\NetworkServer\ServerCore\obj\Debug\ServerCore.dll

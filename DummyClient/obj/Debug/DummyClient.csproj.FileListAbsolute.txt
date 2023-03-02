@@ -5,3 +5,7 @@ C:\Users\USER\Desktop\C#_Rookiss\NetworkServer\DummyClient\obj\Debug\DummyClient
 C:\Users\USER\Desktop\C#_Rookiss\NetworkServer\DummyClient\obj\Debug\DummyClient.csproj.CoreCompileInputs.cache
 C:\Users\USER\Desktop\C#_Rookiss\NetworkServer\DummyClient\obj\Debug\DummyClient.exe
 C:\Users\USER\Desktop\C#_Rookiss\NetworkServer\DummyClient\obj\Debug\DummyClient.pdb
+C:\Users\USER\Desktop\C#_Rookiss\NetworkServer\DummyClient\bin\Debug\ServerCore.dll
+C:\Users\USER\Desktop\C#_Rookiss\NetworkServer\DummyClient\bin\Debug\ServerCore.pdb
+C:\Users\USER\Desktop\C#_Rookiss\NetworkServer\DummyClient\bin\Debug\ServerCore.dll.config
+C:\Users\USER\Desktop\C#_Rookiss\NetworkServer\DummyClient\obj\Debug\DummyClient.csproj.CopyComplete

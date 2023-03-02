@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\C#_Rookiss\NetworkServer\NetworkServer\bin\Debug\NetworkServer.exe.config
+C:\Users\USER\Desktop\C#_Rookiss\NetworkServer\NetworkServer\bin\Debug\NetworkServer.exe
+C:\Users\USER\Desktop\C#_Rookiss\NetworkServer\NetworkServer\bin\Debug\NetworkServer.pdb
+C:\Users\USER\Desktop\C#_Rookiss\NetworkServer\NetworkServer\bin\Debug\ServerCore.dll
+C:\Users\USER\Desktop\C#_Rookiss\NetworkServer\NetworkServer\bin\Debug\ServerCore.pdb
+C:\Users\USER\Desktop\C#_Rookiss\NetworkServer\NetworkServer\bin\Debug\ServerCore.dll.config
+C:\Users\USER\Desktop\C#_Rookiss\NetworkServer\NetworkServer\obj\Debug\NetworkServer.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\C#_Rookiss\NetworkServer\NetworkServer\obj\Debug\NetworkServer.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C#_Rookiss\NetworkServer\NetworkServer\obj\Debug\NetworkServer.csproj.CopyComplete
+C:\Users\USER\Desktop\C#_Rookiss\NetworkServer\NetworkServer\obj\Debug\NetworkServer.exe
+C:\Users\USER\Desktop\C#_Rookiss\NetworkServer\NetworkServer\obj\Debug\NetworkServer.pdb
