@@ -1,0 +1,10 @@
+﻿[*.cs]
+
+# IDE0025: 속성에 식 본문 사용
+csharp_style_expression_bodied_properties = false
+
+# IDE0027: 접근자에 식 본문 사용
+csharp_style_expression_bodied_accessors = true
+
+# IDE0027: 접근자에 식 본문 사용
+dotnet_diagnostic.IDE0027.severity = none
