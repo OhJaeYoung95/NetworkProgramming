@@ -10,13 +10,26 @@ using ServerCore;
 
 namespace NetworkServer
 {
+    class Knight
+    {
+        public int hp;
+        public int attack;
+    }
     class GameSession : Session
     {
         public override void OnConnected(EndPoint endPoint)
         {
             Console.WriteLine($"OnConnected : {endPoint}");
 
-            byte[] sendBuff = Encoding.UTF8.GetBytes("Welcome to MMORPG Server !");
+            Knight knight = new Knight() { hp = 100, attack = 10 };
+
+            byte[] sendBuff = new byte[1024];
+            byte[] buffer = BitConverter.GetBytes(knight.hp);
+            byte[] buffer2 = BitConverter.GetBytes(knight.attack);
+            Array.Copy(buffer, 0, sendBuff, 0, buffer.Length);
+            Array.Copy(buffer2, 0, sendBuff, buffer.Length, buffer2.Length);
+            // Encoding.UTF8.GetBytes("Welcome to MMORPG Server !");
+            
             Send(sendBuff);
             Thread.Sleep(1000);
             Disconnect();
