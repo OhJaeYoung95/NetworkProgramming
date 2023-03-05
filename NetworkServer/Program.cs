@@ -14,6 +14,7 @@ namespace NetworkServer
     {
         public int hp;
         public int attack;
+        public string name;
     }
     class GameSession : Session
     {
